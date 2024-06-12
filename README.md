@@ -12,4 +12,4 @@ Clone the repository: 'git clone https://github.com/DavutFurkan/ShurikenStorm.gi
 Enjoy the game!
 
 [LinkedIn](https://www.linkedin.com/in/davut-furkan-gurler-/) 
-[Mail](furkangurler99@gmail.com)
+Gmail: furkangurler99@gmail.com
