@@ -1,15 +1,15 @@
-ShurikenFırtına
+ShurikenStorm
 
-Shuriken fırlatma sanatında ustalaşan bir ninja olarak oynayacağınız heyecan verici bir oyun olan ShurikenStorm'a hoş geldiniz. Çeşitli konumlarda gezinin, düşmanları alt edin ve ninja becerilerinizi kanıtlayın.
+Welcome to ShurikenStorm, an exciting game where you play as a ninja mastering the art of shuriken throwing. Navigate through various locations, defeat enemies, and prove your ninj
 
-Özellikler:
+Features:
 
-Artan zorluklar
-Çeşitli düşman türleri
-Pürüzsüz ve sezgisel kontroller
-Depoyu klonlayın:git clone https://github.com/DavutFurkan/ShurikenStorm.git
+Increasing challenge
+Diverse enemy types
+Smooth and intuitive contr
+Clone the repository: 'git clone https://github.com/DavutFurkan/ShurikenStorm.git'
 
-Oyunun tadını Çıkar!
+Enjoy the game!
 
 https://www.linkedin.com/in/davut-furkan-gurler-/
 furkangurler99@gmail.com
